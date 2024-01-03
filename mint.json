@@ -27,6 +27,10 @@
   },
   "tabs": [
     {
+      "name": "Billing & Account",
+      "url": "billing-account"
+    },
+    {
       "name": "API Reference",
       "url": "api-reference"
     }
