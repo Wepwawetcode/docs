@@ -80,7 +80,7 @@
   },
   "analytics": {
     "plausible": {
-        "domain": "https://analytics.wepwawet.net/"
+        "domain": "analytics.wepwawet.net"
     }
 } 
 }
