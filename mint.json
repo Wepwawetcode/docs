@@ -2,7 +2,7 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Wepwawet Docs",
   "logo": {
-    "dark": "/logo/dark.svg",
+    "dark": "https://wepwawet.net/assets/img/logo/logo.svg",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
@@ -52,6 +52,10 @@
     {
       "group": "Get Started",
       "pages": ["billing","introduction", "quickstart", "development"]
+    },
+    {
+      "group": "Minecraft",
+      "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
     },
     {
       "group": "Essentials",
