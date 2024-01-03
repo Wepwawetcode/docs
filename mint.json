@@ -66,6 +66,10 @@
       "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
     },
     {
+      "group": "Account & Billing Documentation",
+      "pages": ["account-billing/introduction"]
+    },
+    {
       "group": "API Documentation",
       "pages": ["api-reference/introduction"]
     },
