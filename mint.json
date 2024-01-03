@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "tester",
+  "name": "Wepwawet Docs",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -77,5 +77,11 @@
     "tiktok": "https://github.com/mintlify",
     "instagram": "https://www.linkedin.com/company/mintsearch",
     "facebook": "https://www.linkedin.com/company/mintsearch"
-  }
+  },
+  "analytics": {
+    "plausible": {
+        "domain": "https://analytics.wepwawet.net/"
+    }
+} 
 }
+
